@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>cmrit</title>
+</head>
+<body style="background-color:powderblue;">
+    <table cellspacing="10">
+        <tr>
+        <td><img src="data:image/png;base64,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" alt=" ">  </td>
+        <td>
+            <h1>CMR INSTITUTE OF TECHNOLOGY</h1>
+            <h4>Aecs Layout Kundahalli,Bengaluru-560037</h4>
+            <h4>👜<a href="https://www.cmrit.ac.in/courses/">COURSES</a></h4>
+            <h4>📞<a href="contact.html">CONTACT US</a></h4>
+
+
+        </td>
+        </tr>
+    </table>
+    <hr>
+    <h2>ABOUT CMRIT</h2>
+    <p>Established in 2000, the CMR Institute of Technology imparts quality, pragmatic education in engineering and management to help students hone their analytical abilities and develop their creative thinking skills. CMRIT meets the rapidly growing need for technology professionals by nurturing young minds in an innovative and progressive learning environment. Situated in the very heart of South India’s IT corridor, the CMRIT campus in Whitefield, Bangalore is centrally located, well connected and easily accessible.</p>
+    <hr>
+    <h2>Undergraduate Admission</h2>
+    <ul>
+        <li><a href="https://www.cmrit.ac.in/courses/be-computer-science-engineering/">BE-Computer Science and Engineering</a>  </li>
+        <li><a href="https://www.cmrit.ac.in/courses/be-electronics-communication-engineering/">BE-Electronics and Communication Engineering</a></li>
+        <li><a href="https://www.cmrit.ac.in/courses/be-information-science-engineering/">BE-Information Science and Engineering </a></li>
+        <li><a href="https://www.cmrit.ac.in/courses/be-artificial-intelligence-and-machine-learning/">BE-Artificial Intelligence and Machine Learning </a> </li>
+        <li><a href="https://www.cmrit.ac.in/courses/b-e-artificial-intelligence-and-data-science/">BE-Artificial Intelligence and Data Science</a> </li>
+        <li><a href="https://www.cmrit.ac.in/courses/be-cse-artificial-intelligence-and-machine-learning/">BE-Computer Science & Engineering (AI and ML) </a>   </li>
+        <li><a href="https://www.cmrit.ac.in/departments/department-of-computer-science-engineering-ds/">BE-Computer Science & Engineering (Data Science) </a>   </li>
+    </ul>
+    <hr>
+    <h2>Functions Of Governing Council</h2>
+    <p>
+        <ol>
+            <li>Adopting the fees and other charges payable by the student of the college as fixed by the Government/University in this regard from time to time.
+            </li>
+            <li>Accepting endowments, institute scholarships, fellowships, studentships, medals prizes and certificates on the recommendation of the Academic Council.</li>
+            <li>Approving the starting of new programmes of study with the concurrence of the
+                University, leading to all the courses running in our institution.
+                </li>
+            <li>Lay down services conditions and emoluments as per the Council norms, allowances for teaching and non-teaching staff in the college, consistent with the University Status/ Ordinances / Regulations/ Rules/ Guidelines and other State Government Provisions.
+            </li>
+            <li>Lay down the procedure for selection recruitment of teaching, non teaching staff and for appointing them in the college, consistent with the University Statutes / Ordinances / Regulations/ Rules/ Guidelines and other State Government Provisions.
+            </li>
+            <li>Approving the Annual Budget of the college.</li>
+            <li>Performing such other functions & constitute Committee, as may be necessary and deemed fit for the proper development and fulfill the objectives for which the college was established.</li>
+        </ol>
+    </p>
+    <hr>
+    <h2>ACHIEVEMENTS</h2>
+    <table cellspacing="30" border="1" >
+        <tr>
+            <td><a href="https://www.cmrit.ac.in/wp-content/uploads/2023/02/NAAC-A-Certificate_Final.pdf">NAAC Certificate</a></td>
+            <td><a href="https://www.cmrit.ac.in/wp-content/uploads/2022/12/NIRF-Certificate-2022.jpeg">NIRF Ranking 2022</a></td>
+            <td><a href="https://www.cmrit.ac.in/wp-content/uploads/2022/06/ARI-C-1406.pdf">ARIIA Certification 2021</a></td>
+            <td><a href="https://www.cmrit.ac.in/wp-content/uploads/2021/10/TOP-IICs-2020-21-5-from-each-zone.pdf">TOP IICs 2020-21</a></td>
+        </tr>
+    </table>
+    <br>
+    <br>
+
+    
+
+ </body>
+</html>

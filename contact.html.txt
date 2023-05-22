@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CONTACT</title>
+</head>
+<body style="background-color:powderblue;">
+    <h1>CONTACT US</h1>
+    <hr>
+    <table cellspacing="70">
+        <tr>
+            <td>
+                <h2>Admissions Hotline:</h2>
+                <p>9342900666</p>
+                <h2>Call:</h2>
+                <p>8028524466</p>
+                <h2>Email:</h2>
+                <p>info@cmrit.ac.in</p>
+                <h2>Office Hours:</h2>
+                <p>8.00 am to 4.00 pm (Monday – Friday)</p>
+                <p>8.00 am to 12.30 pm (Saturday)</p>
+            </td>
+            <td>
+    <form  action="mailto:rajritik1403@gmail.com" method="post" enctype="text/plain">
+        <label><strong>
+         Enter Applicant Name(As oer 10th Marks Card):</strong>
+        </label>
+        <input type="text">
+        <br>
+        <br>
+        <label><strong>Enter Applicant E-mail Address:</strong></label>
+        <input type="email">
+        <br>
+        <br>
+        <lable><strong>Enter Applicant Mobile Number:</strong></lable>
+        <input type="number">
+        <br>
+        <br>
+        <label><strong>Select State:</strong></label>
+        <input type="text">
+        <br>
+        <br>
+        <label><strong>Select City:</strong></label>
+        <input type="text">
+        <br>
+        <br>
+        <label><strong>Select Program</strong></label>
+        <br>
+        <label>UG COURSES</label>
+        <input type="checkbox">
+        <br>
+        <label>PG COURSES</label>
+        <input type="checkbox">
+        <br>
+        <br>
+        <input type="checkbox">
+        <label>I agree to receive informations from CMR Institute Of Technology</label>
+        <br><br>
+        <input type="submit">
+    </form>
+    </td>
+    </tr>
+    </table>
+</body>
+</html>
